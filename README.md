@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nelson Henry
-- 👀 I’m interested in Silicon Industry, interoperable standards, dancing
-- 🌱 I’m currently learning Rust, JS, Teraform
+- 👀 I’m interested in Silicon industry / IC innovations, interoperable standards, digital twins, dancing
+- 🌱 I’m currently learning Rust, JS, Teraform, DTDL
 - 💞️ I’m looking to collaborate on Access Control systems and credential solutions
 - 📫 How to reach me: Nelson.Henry@allegion.com
